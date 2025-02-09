@@ -7,9 +7,6 @@ The vibrant composition, created using the Disco Diffusion 512x512 model, is ref
 
 Orange hues depict the remnants of a star being drawn into the black hole, while purple and bluish outlines symbolize the old nebula’s dying remnants swirling at the periphery. Quantum distortions ripple through the scene, visualizing recursive patterns where space bends, folds, and warps in higher dimensions. Radiant plasma crackles along the accretion disk, portraying the relativistic plasma bursts of Hawking radiation as time collapses within the abyss.
 
-## **About the Artist**  
-Udayan Sharma is a 20-year-old artist from India with a passion for data science, AI artwork creation, and sketching during weekends. Since 2022, he has been exploring the intersection of AI-generated and traditional art, taking inspiration from books, movies, and research papers. His niche lies in combining cutting-edge research with visual storytelling.
-
 ## **Connect with the Artist**  
 - **AI Art:** [@holler.ai](https://www.instagram.com/holler.ai)  
 - **Traditional Art:** [@hollermay](https://www.instagram.com/hollermay)
