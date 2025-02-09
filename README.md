@@ -11,5 +11,5 @@ Orange hues depict the remnants of a star being drawn into the black hole, while
 Udayan Sharma is a 20-year-old artist from India with a passion for data science, AI artwork creation, and sketching during weekends. Since 2022, he has been exploring the intersection of AI-generated and traditional art, taking inspiration from books, movies, and research papers. His niche lies in combining cutting-edge research with visual storytelling.
 
 ## **Connect with the Artist**  
-- **AI Art:** [@holler.aui](https://www.instagram.com/holler.ai)  
+- **AI Art:** [@holler.ai](https://www.instagram.com/holler.ai)  
 - **Traditional Art:** [@hollermay](https://www.instagram.com/hollermay)
